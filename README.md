@@ -19,7 +19,7 @@
 
 #### My Current Stack
 
-<img height="48" src="img/Python.svg" alt="Python"> <img height="48" src="img/MATLAB.png" alt="MATLAB"> <img height="48" src="img/HTML5.svg" alt="HTML5"> <img height="48" src="img/CSS3.svg" alt="CSS3"> <img height="48" src="img/JavaScript.svg" alt="JavaScript"> <img height="48" src="img/Git.svg" alt="Git">
+<img height="48" src="img/Python.svg" alt="Python"> <img height="48" src="img/MATLAB.svg" alt="MATLAB"> <img height="48" src="img/HTML5.svg" alt="HTML5"> <img height="48" src="img/CSS3.svg" alt="CSS3"> <img height="48" src="img/JavaScript.svg" alt="JavaScript"> <img height="48" src="img/Git.svg" alt="Git">
 
 #### Development Stuffs:
 
